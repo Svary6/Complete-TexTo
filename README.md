@@ -1,7 +1,7 @@
 # Complete-TexTo
 A modified script, originally made by the youtuber Acrylic, made to be able to automatically detect your voice, and transform it into Kasane Teto with the help of OpenUtau-TexTo. Modified to have no need for a focused window or a second PC, without any pyautogui tomfoolery. All automatic without being bothersome to use. Hopefully.
 
-To use this, you NEED OpenUtau-TexTo, downloadable at https://github.com/Svary6/OpenUtau-TexTo/tree/main along with the Teto voicebank included. Make sure to read everything there.
+To use this, you NEED OpenUtau-TexTo, downloadable at https://github.com/Svary6/OpenUtau-TexTo/tree/main along with the Teto voicebank included. Make sure to read everything there. Also, python is required so make sure you have it installed, as the program uses an amalgamation of python packages to even run.
 
 The usage is quite simple:
 
