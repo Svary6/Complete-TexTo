@@ -15,9 +15,9 @@ The usage is quite simple:
 
 5. Then the command prompt will prompt you (haha) to wait until you are prompted to speak.
 
-6. "Listening" means that you may talk. Try to talk at a normal pitch and not super fast.
+6. "Listening" means that you may talk. Try to talk at a normal pitch and not super fast. A headphone icon will show this in the top left.
 
-7. After a slight bit of not speaking, the program will process your voice, open OpenUtau-TexTo if not already open, and start playing the file
+7. After a slight bit of not speaking, the program will process your voice, open OpenUtau-TexTo if not already open, and start playing the file. This is signified by a microphone icon in the top left.
 
 8. Repeat steps 5-7.
 
