@@ -9,17 +9,19 @@ The usage is quite simple:
 
 2. Dowload and extract Complete TexTo
 
-3. Launch the .bat file
+3. Launch the install.bat file and wait for a .venv to get made, and about 3 minutes for all python packages to install.
 
-4. After a little bit of waiting, a file explorer window will open, select the directory where openutau.exe is and select it. (make sure it is 100% the modded version)
+4. Launch run_speech_to_text_to_teto.bat
 
-5. Then the command prompt will prompt you (haha) to wait until you are prompted to speak.
+5. After a little bit of waiting, a file explorer window will open, select the directory where openutau.exe is and select it. (make sure it is 100% the modded version)
 
-6. "Listening" means that you may talk. Try to talk at a normal pitch and not super fast. A headphone icon will show this in the top left.
+6. Then the command prompt will prompt you (haha) to wait until you are prompted to speak.
 
-7. After a slight bit of not speaking, the program will process your voice, open OpenUtau-TexTo if not already open, and start playing the file. This is signified by a microphone icon in the top left.
+7. "Listening" means that you may talk. Try to talk at a normal pitch and not super fast. A headphone icon will show this in the top left.
 
-8. Repeat steps 5-7.
+8. After a slight bit of not speaking, the program will process your voice, open OpenUtau-TexTo if not already open, and start playing the file. This is signified by a microphone icon in the top left.
+
+9. Repeat steps 5-7.
 
 If the file selection doesn't work, open openutau_path.txt and copy the file directory into the notepad there. Make sure to include .../openutau.exe
 
